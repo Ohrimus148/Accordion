@@ -1,0 +1,19 @@
+
+
+
+    body {
+        margin: 50px 100px;
+    }
+    .panel-body_hidden {
+        display: none;
+    }
+
+    .panel-heading {
+        cursor: pointer;
+    }
+    .panel-status {
+        color: #aaa;
+        margin-right: 20px;
+
+    }
+
